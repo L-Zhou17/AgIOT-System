@@ -1,5 +1,5 @@
 # AgIOT-System
-
+A wireless sensor node for temperature, humidity and illumination monitoring.
 ### Requirements:
 #### Hardware:
 1. ESP32 module
