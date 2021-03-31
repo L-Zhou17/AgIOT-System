@@ -16,7 +16,7 @@ A wireless sensor node for temperature, humidity and illumination monitoring.
 1. Install Arduino IDE.
 2. Install library dependencies for ESP32 (see the Requirements).
 3. Choose the correct ESP32 mudule in the IDE.
-4. Upload the codes to the module.
+4. Upload the [codes](Node_AgZL/) to the module.
 
 #### Functions:
 - The node works in AP-STA mode.
