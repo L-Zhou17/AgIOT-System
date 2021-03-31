@@ -5,6 +5,7 @@ A wireless sensor node for temperature, humidity and illumination monitoring.
 1. ESP32 module
 2. SHT20 and BH1750 sensor module
 3. 128x64 IIC OLED SSD1306
+4. SDA-->GPIO4, SCL-->GPIO15
 
 #### Tools:
 1. Arduino IDE
