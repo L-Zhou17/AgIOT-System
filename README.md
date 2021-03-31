@@ -10,7 +10,7 @@ A wireless sensor node for temperature, humidity and illumination monitoring.
 1. Arduino IDE
 2. Arduino core for the ESP32, available at https://github.com/me-no-dev
 3. Libraries: AsyncTCP and ESPAsyncWebServer, available at https://github.com/me-no-dev
-4. Libraries for OLED SSD1306
+4. Libraries for OLED SSD1306, available at [OLED](OLED/)
 
 #### Instructions
 1. Install Arduino IDE.
