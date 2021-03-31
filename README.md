@@ -23,3 +23,4 @@ A wireless sensor node for temperature, humidity and illumination monitoring.
 - The node works in AP-STA mode.
 - A local server is established on the node. First, connect to the access point using the SSID and password defined in the code. Next, access 192.168.4.1 with browser to visit the GUI. The informantion including temperature, humidity and illumination are listed on the main page. Then, users can change the configurations of the node, such as the target accesss point (SSID and password) and the target remote server (IP address and port). Once the changes are committed, the node will force restart and work according to the configuration. 
 - The node uploads the collected data to the remote server using a certain format $ID,Name,User,Type,Frequency,Battery,data1,data2,data3,#
+- The data will display on the OLED.
