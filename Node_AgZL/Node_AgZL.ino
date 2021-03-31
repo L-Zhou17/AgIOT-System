@@ -244,10 +244,10 @@ bool Node_Init_chk()
   else
   {
     Serial.println("New Node. Use default: ");
-    ssid = "vaprkR3nw";
-    pswd = "12345687";
-    svip = "101.132.72.51";
-    port = "8061";
+    ssid = "default SSID";
+    pswd = "default psd";
+    svip = "default IP";
+    port = "default Port";
   }
   Serial.println(ssid);
   Serial.println(pswd);
