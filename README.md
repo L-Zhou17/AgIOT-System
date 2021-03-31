@@ -8,4 +8,5 @@
 4. 
 ### Tools:
 1. Arduino IDE
-2. Libraries: AsyncTCP, ESPAsyncWebServer, ESP32
+2. Arduino core for the ESP32, available at https://github.com/me-no-dev
+3. Libraries: AsyncTCP and ESPAsyncWebServer, available at https://github.com/me-no-dev
